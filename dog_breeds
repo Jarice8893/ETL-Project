@@ -1,0 +1,260 @@
+,Breed,Breed Group AKC,Breed Group CKC,Breed Group UKC,CKC Subgroup,height_low_inches,height_high_inches,average height,weight_low_lbs,weight_high_lbs,average weight,Lifespan Low,Lifespan High,average lifespan,2016 Rank,2015 Rank,2014 Rank,2013 Rank,Average Rank
+0,Affenpinscher,Toy Group,Group 5: Pinschers and Schnauzers ,Companion Dog ,5-B: Small Pinschers and Schnauzers ,9.0,12.0,10.5,8.0,12.0,10.0,12.0,15.0,13.5,149.0,136.0,144.0,143.0,143.0
+1,Afghan Hound,Hound Group,Group 8: Sighthound Breeds ,Sighthound & Pariah,8-B: Long Haired Sighthounds,25.0,27.0,26.0,50.0,60.0,55.0,12.0,15.0,13.5,113.0,100.0,98.0,95.0,101.5
+2,Aidi,Not Recognized,Not Recognized,Guardian Dog,Not Recognized,20.0,24.5,22.25,50.0,55.0,52.5,12.0,13.0,12.5,,,,,
+3,Airedale Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,6-A: Large Terriers,22.0,24.0,23.0,45.0,45.0,45.0,11.0,14.0,12.5,,,,,
+4,Akbash Dog,Not Recognized,Group 9: Large Guardian Pastoral/Mountain Dogs ,Guardian Dog,None,27.0,34.0,30.5,75.0,140.0,107.5,9.0,11.0,10.0,,,,,
+5,Akita,Working Group,Group 2: Spitz and Nordic Breeds,Northern,2-C: Asian Spitz Breeds,26.0,28.0,27.0,80.0,120.0,100.0,10.0,13.0,11.5,46.0,46.0,46.0,45.0,45.75
+6,Alaskan Husky,Not Recognized,Not Recognized,Not Recognized,Not Recognized,23.0,26.0,24.5,35.0,60.0,47.5,10.0,15.0,12.5,,,,,
+7,Alaskan Klee Kai,Foundation Stock Service,Group 2: Spitz and Nordic Breeds,Northern,None,16.0,18.0,17.0,16.0,23.0,19.5,13.0,16.0,14.5,,,,,
+8,Alaskan Malamute,Working Group,Group 2: Spitz and Nordic Breeds,Northern,2-D: Nordic Sled Dogs ,23.0,28.0,25.5,75.0,124.0,99.5,10.0,14.0,12.0,59.0,54.0,54.0,57.0,56.0
+9,American Bulldog,Foundation Stock Service,Group 4: Bull Breeds ,Guardian Dog ,4-A: Bulldogs ,20.0,27.0,23.5,60.0,125.0,92.5,10.0,12.0,11.0,,,,,
+10,American Bully,Not Recognized,Group 4: Bull Breeds ,Companion Dog,4-B: Bull-and-Terrier Breeds ,15.0,21.0,18.0,35.0,120.0,77.5,10.0,12.0,11.0,,,,,
+11,American Cocker Spaniel,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,11-B: Flushing Dogs,13.0,16.0,14.5,15.0,30.0,22.5,10.0,14.0,12.0,,,,,
+12,American Eskimo Dog,Non-Sporting Group,Group 2: Spitz and Nordic Breeds,Northern,2-A: American Spitz Breeds,9.0,19.0,14.0,25.0,30.0,27.5,13.0,15.0,14.0,122.0,118.0,120.0,110.0,117.5
+13,American Foxhound,Hound Group,Group 7: Scenthounds and Related Breeds ,Scenthound,7-A: Large Scenthounds ,22.0,25.0,23.5,65.0,70.0,67.5,11.0,13.0,12.0,189.0,181.0,180.0,176.0,181.5
+14,American Hairless Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,6-A: Large Terriers ,12.0,16.0,14.0,12.0,16.0,14.0,14.0,16.0,15.0,,,,,
+15,American Leopard Hound,Foundation Stock Service,Group 7: Scenthounds and Related Breeds ,Scenthound,None,21.0,27.0,24.0,45.0,70.0,57.5,12.0,15.0,13.5,,,,,
+16,American Pit Bull Terrier,Not Recognized,Group 4: Bull Breeds ,Terrier,4-B: Bull-and-Terrier Breeds,17.0,22.0,19.5,30.0,75.0,52.5,10.0,12.0,11.0,,,,,
+17,American Staffordshire Terrier,Terrier Group,Group 4: Bull Breeds ,Not Recognized,4-B: Bull-and-Terrier Breeds ,17.0,19.0,18.0,40.0,70.0,55.0,12.0,16.0,14.0,81.0,77.0,84.0,76.0,79.5
+18,American Water Spaniel,Sporting Group,Not Recognized,Gun Dog,Not Recognized,15.0,18.0,16.5,25.0,45.0,35.0,10.0,14.0,12.0,156.0,157.0,160.0,144.0,154.25
+19,Anatolian Shepherd Dog,Working Group,Group 9: Large Guardian Pastoral/Mountain Dogs  ,Guardian Dog ,9-A: 9-A Large Mountain/Pastoral Dogs Shepherding Type ,27.0,29.0,28.0,100.0,150.0,125.0,11.0,13.0,12.0,84.0,92.0,94.0,93.0,90.75
+20,Australian Cattle Dog,Herding Group,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,10-C: Medium Pastoral Dogs,17.0,20.0,18.5,33.0,50.0,41.5,12.0,16.0,14.0,54.0,56.0,55.0,58.0,55.75
+21,Australian Kelpie,Foundation Stock Service,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,None,17.0,20.0,18.5,33.0,50.0,41.5,10.0,13.0,11.5,,,,,
+22,Australian Shepherd,Herding Group,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,10-C: Medium Pastoral Dogs ,18.0,23.0,20.5,40.0,65.0,52.5,12.0,15.0,13.5,16.0,17.0,18.0,20.0,17.75
+23,Australian Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,6-C: Small Terriers ,10.0,11.0,10.5,15.0,20.0,17.5,11.0,15.0,13.0,136.0,125.0,139.0,122.0,130.5
+24,Barbet,Sporting Group,Not Recognized,Gun Dog,Not Recognized,19.0,24.5,21.75,35.0,65.0,50.0,12.0,14.0,13.0,,,,,
+25,Basenji,Hound Group,"Group 1: Primitive, Pariah, and Feral Breeds ",Sighthound & Pariah,None,16.0,17.0,16.5,21.0,24.0,22.5,13.0,14.0,13.5,88.0,87.0,86.0,85.0,86.5
+26,Basset Hound,Hound Group,Group 7: Scenthounds and Related Breeds ,Scenthound,None,10.0,17.0,13.5,33.0,70.0,51.5,12.0,13.0,12.5,39.0,39.0,42.0,41.0,40.25
+27,Beagle,Hound Group,Group 7: Scenthounds and Related Breeds ,Scenthound,7-B: Medium Scenthounds ,13.0,17.0,15.0,18.0,35.0,26.5,10.0,15.0,12.5,5.0,5.0,5.0,4.0,4.75
+28,Bearded Collie,Herding Group,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,10-C: Medium Pastoral Dogs ,20.0,22.0,21.0,40.0,60.0,50.0,12.0,14.0,13.0,126.0,119.0,121.0,112.0,119.5
+29,Beauceron,Herding Group,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,None,24.0,28.0,26.0,65.0,110.0,87.5,10.0,12.0,11.0,140.0,142.0,145.0,152.0,144.75
+30,Bedlington Terrier,Terrier Group,Not Recognized,Terrier,,15.0,18.0,16.5,17.0,23.0,20.0,11.0,16.0,13.5,138.0,146.0,140.0,137.0,140.25
+31,Belgian Sheepdog-Malinois,Herding Group,Group 10: Pastoral and Stock Dog Breeds ,Not Recognized,10-B: Large Pastoral Dogs,22.0,26.0,24.0,40.0,80.0,60.0,14.0,16.0,15.0,,,,,
+32,Belgian Sheepdog-Tervuren,Herding Group,Group 10: Pastoral and Stock Dog Breeds ,Not Recognized,10-B: Large Pastoral Dogs,22.0,26.0,24.0,45.0,75.0,60.0,12.0,14.0,13.0,,,,,
+33,Bernese Mountain Dog,Working Group,Group 9: Large Guardian Pastoral/Mountain Dogs  ,Guardian Dog ,9-B: Large Pastoral/Mountain Dogs and Related Breeds ,23.0,27.5,25.25,70.0,115.0,92.5,7.0,10.0,8.5,27.0,29.0,32.0,32.0,30.0
+34,Bichon Frise,Non-Sporting Group,Group 12: Companion and Toy Breeds,Companion Dog,None,9.0,12.0,10.5,7.0,18.0,12.5,14.0,15.0,14.5,,,,,
+35,Black & Tan Coonhound,Hound Group,Group 7: Scenthounds and Related Breeds ,Scenthound,7-A: Large Scenthounds ,21.0,27.0,24.0,40.0,110.0,75.0,10.0,12.0,11.0,,,,,
+36,Black Mouth Cur,Not Recognized,Group 10: Pastoral and Stock Dog Breeds ,Scenthound,Multi-Purpose Stock Dogs and Curs ,16.0,26.0,21.0,35.0,100.0,67.5,12.0,16.0,14.0,,,,,
+37,Black Russian Terrier,Working Group,Group 5: Pinschers and Schnauzers ,Guardian Dog ,None,25.0,31.0,28.0,80.0,143.0,111.5,10.0,12.0,11.0,119.0,116.0,127.0,118.0,120.0
+38,Bloodhound,Hound Group,Group 7: Scenthounds and Related Breeds ,Scenthound,7-A: Large Scenthounds,23.0,27.0,25.0,79.0,119.0,99.0,10.0,12.0,11.0,52.0,49.0,50.0,48.0,49.75
+39,Bluetick Coonhound,Hound Group,Group 7: Scenthounds and Related Breeds ,Scenthound,None,21.0,27.0,24.0,45.0,80.0,62.5,11.0,12.0,11.5,121.0,123.0,130.0,128.0,125.5
+40,Border Collie,Herding Group,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,10-C: Medium Pastoral Dogs,18.0,22.0,20.0,27.0,55.0,41.0,12.0,15.0,13.5,38.0,38.0,40.0,44.0,40.0
+41,Border Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,6-B: Medium Terriers,11.0,16.0,13.5,11.0,16.0,13.5,12.0,15.0,13.5,86.0,82.0,85.0,81.0,83.5
+42,Borzoi,Hound Group,Group 8: Sighthound Breeds ,Sighthound & Pariah,8-B: Long Haired Sighthounds,26.0,34.0,30.0,55.0,105.0,80.0,9.0,14.0,11.5,98.0,89.0,102.0,99.0,97.0
+43,Boston Terrier,Non-Sporting Group,Group 4: Bull Breeds ,Companion Dog,4-B: Bull-and-Terrier Breeds ,14.0,17.0,15.5,12.0,25.0,18.5,11.0,13.0,12.0,21.0,22.0,23.0,23.0,22.25
+44,Bouvier Des Flandres,Herding Group,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,0-A: X-Large Pastoral Dogs ,23.0,28.0,25.5,59.0,110.0,84.5,10.0,12.0,11.0,,,,,
+45,Boykin Spaniel,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,11-B: Flushing Dogs,14.0,18.0,16.0,25.0,40.0,32.5,10.0,15.0,12.5,110.0,107.0,108.0,121.0,111.5
+46,Boxer,Working Group,Group 3: Molossoids and Mastiffs Breeds ,Guardian Dog ,None,21.0,25.0,23.0,55.0,80.0,67.5,10.0,12.0,11.0,10.0,10.0,8.0,7.0,8.75
+47,Briard,Herding Group,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,10-A: X-Large Pastoral Dogs ,22.0,27.0,24.5,55.0,100.0,77.5,12.0,12.0,12.0,132.0,130.0,132.0,127.0,130.25
+48,Brittany,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,11-A: Pointing Dogs,17.0,21.0,19.0,30.0,45.0,37.5,12.0,14.0,13.0,25.0,26.0,27.0,30.0,27.0
+49,Brussels Griffon,Toy Group,Group 5: Pinschers and Schnauzers ,Companion Dog,5-B: Small Pinschers and Schnauzers ,7.0,10.0,8.5,7.0,13.0,10.0,12.0,15.0,13.5,97.0,95.0,91.0,84.0,91.75
+50,Bull Terrier,Terrier Group,Group 4: Bull Breeds ,Terrier,4-B: Bull-and-Terrier Breeds ,20.0,24.0,22.0,25.0,80.0,52.5,12.0,13.0,12.5,57.0,55.0,53.0,52.0,54.25
+51,Bulldog,Non-Sporting Group,Group 4: Bull Breeds ,Companion Dog,4-A: Bulldogs ,12.0,17.0,14.5,40.0,58.0,49.0,8.0,10.0,9.0,4.0,4.0,4.0,5.0,4.25
+52,Bullmastiff,Working Group,Group 3: Molossoids and Mastiffs Breeds ,Guardian Dog,None,24.0,27.0,25.5,90.0,130.0,110.0,7.0,9.0,8.0,48.0,43.0,45.0,40.0,44.0
+53,Cairn Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,6-C: Small Terriers ,9.0,12.0,10.5,13.0,17.0,15.0,13.0,15.0,14.0,70.0,70.0,69.0,61.0,67.5
+54,Canaan Dog,Herding Group,Not Recognized,Sighthound & Pariah,Not Recognized,19.0,24.0,21.5,35.0,55.0,45.0,12.0,15.0,13.5,181.0,170.0,176.0,164.0,172.75
+55,Cane Corso,Working Group,Group 3: Molossoids and Mastiffs Breeds ,Guardian Dog,None,23.0,28.0,25.5,80.0,110.0,95.0,9.0,12.0,10.5,40.0,35.0,48.0,50.0,43.25
+56,Cardigan Welsh Corgi,Herding Group,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,10-D: Small Pastoral Dogs ,10.0,13.0,11.5,25.0,38.0,31.5,12.0,15.0,13.5,,,,,
+57,Carolina Dog,Foundation Stock Service,"Group 1: Primitive, Pariah, and Feral Breeds ",Sighthound & Pariah,None,17.0,24.0,20.5,30.0,45.0,37.5,12.0,15.0,13.5,,,,,
+58,Catahoula Leopard Dog,Foundation Stock Service,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,10-E: Multi-Purpose Stock Dogs and Curs ,20.0,26.0,23.0,50.0,95.0,72.5,10.0,14.0,12.0,,,,,
+59,Cavalier King Charles Spaniel,Toy Group,Group 12: Companion and Toy Breeds,Companion Dog,12-C: European and African Breeds ,10.0,15.0,12.5,11.0,20.0,15.5,12.0,15.0,13.5,19.0,18.0,19.0,18.0,18.5
+60,Chesapeake Bay Retriever,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,11-C: Retrievers and Waterdogs ,21.0,26.0,23.5,55.0,80.0,67.5,10.0,13.0,11.5,43.0,42.0,41.0,43.0,42.25
+61,Chihuahua,Toy Group,Group 12: Companion and Toy Breeds,Companion Dog,12-A: Americas and Caribbean Breeds ,5.0,10.0,7.5,1.0,7.0,4.0,14.0,16.0,15.0,30.0,28.0,24.0,22.0,26.0
+62,Chinese Crested,Toy Group,Group 12: Companion and Toy Breeds,Companion Dog,12-B: Asian Breeds ,9.0,13.0,11.0,5.0,13.0,9.0,13.0,18.0,15.5,77.0,75.0,65.0,68.0,71.25
+63,Chinese Shar-Pei,Non-Sporting Group,Group 2: Spitz and Nordic Breeds,Northern,2-C: Asian Spitz Breeds ,17.0,20.0,18.5,40.0,60.0,50.0,8.0,12.0,10.0,61.0,59.0,58.0,54.0,58.0
+64,Chow Chow,Non-Sporting Group,Group 2: Spitz and Nordic Breeds,Northern,2-C: Asian Spitz Breeds ,17.0,23.0,20.0,45.0,70.0,57.5,8.0,12.0,10.0,74.0,73.0,70.0,70.0,71.75
+65,Clumber Spaniel,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,None,17.0,20.0,18.5,55.0,85.0,70.0,10.0,12.0,11.0,144.0,134.0,143.0,131.0,138.0
+66,Collie,Herding Group,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,10-B: Large Pastoral Dogs ,20.0,26.0,23.0,45.0,75.0,60.0,12.0,14.0,13.0,37.0,36.0,36.0,35.0,36.0
+67,Coton de Tulear,Non-Sporting Group,Group 12: Companion and Toy Breeds ,Companion Fog,12-C: European and African Breeds ,9.0,11.0,10.0,8.0,15.0,11.5,15.0,19.0,17.0,80.0,85.0,31.0,,65.33333333333333
+68,Curly Coated Retriever,Sporting Group,Not Recognized,Gun Dog,Not Recognized,23.0,27.0,25.0,60.0,95.0,77.5,10.0,12.0,11.0,,,,,
+69,"Dachshund, Miniature",Hound Group,Group 7: Scenthounds and Related Breeds ,Scenthound,7-C: Short-legged Hounds and Dachshunds ,5.0,14.0,9.5,1.0,11.0,6.0,12.0,16.0,14.0,,,,,
+70,"Dachshund, Standard",Hound Group,Group 7: Scenthounds and Related Breeds ,Scenthound,7-C: Short-legged Hounds and Dachshunds ,8.0,18.0,13.0,12.0,32.0,22.0,12.0,16.0,14.0,,,,,
+71,Dalmatian,Non-Sporting Group,Group 7: Scenthounds and Related Breeds ,Companion Dog,7-D: Scenthound Related Breeds ,19.0,24.0,21.5,45.0,71.0,58.0,11.0,13.0,12.0,,,,,
+72,Dandie Dinmont Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,None,8.0,11.0,9.5,18.0,24.0,21.0,12.0,15.0,13.5,167.0,172.0,167.0,168.0,168.5
+73,Danish-Swedish Farmdog,Foundation Stock Service,Not Recognized,Terrier,Not Recognized,12.5,14.5,13.5,15.0,20.0,17.5,11.0,13.0,12.0,,,,,
+74,Doberman Pinscher,Working Group,Group 5: Pinschers and Schnauzers ,Guardian Dog,5-A: Large Pinschers and Schnauzers ,24.0,29.0,26.5,60.0,100.0,80.0,10.0,12.0,11.0,15.0,14.0,14.0,12.0,13.75
+75,Dogo Argentino,Working Group,Group 3: Molossoids and Mastiffs Breeds ,Guardian Dog,None,23.0,27.0,25.0,80.0,100.0,90.0,9.0,15.0,12.0,,,,,
+76,Dutch Shepherd,Miscellaneous Class,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,10-B: Large Pastoral Dogs ,21.5,26.0,23.75,42.0,75.0,58.5,11.0,14.0,12.5,,,,,
+77,English Bulldog,Not Recognized,Group 4: Bull Breeds ,Companion Dog,4-A: Bulldogs,12.0,17.0,14.5,40.0,58.0,49.0,8.0,10.0,9.0,,,,,
+78,English Cocker Spaniel,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,11-B: Flushing Dogs ,15.0,18.0,16.5,24.0,35.0,29.5,12.0,14.0,13.0,56.0,60.0,62.0,62.0,60.0
+79,English Coonhound,Hound Group,Group 7: Scenthounds and Related Breeds ,Scenthound,7-A: Large Scenthounds,20.0,27.0,23.5,45.0,70.0,57.5,11.0,12.0,11.5,,,,,
+80,English Foxhound,Hound Group,Group 7: Scenthounds and Related Breeds ,Scenthound,None,23.0,26.0,24.5,45.0,65.0,55.0,11.0,12.0,11.5,187.0,184.0,183.0,177.0,182.75
+81,English Setter,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,11-D: Setters,22.0,27.0,24.5,45.0,80.0,62.5,12.0,12.0,12.0,,,,,
+82,English Shepherd,Not Recognized,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,10-C: Medium Pastoral Dogs,18.0,24.0,21.0,40.0,65.0,52.5,,,0.0,,,,,
+83,English Springer Spaniel,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,11-B: Flushing Dogs,19.0,20.0,19.5,35.0,50.0,42.5,12.0,14.0,13.0,26.0,27.0,28.0,28.0,27.25
+84,English Toy Spaniel,Toy Group,Group 12: Companion and Toy Breeds ,Companion Dog,12-C: European and African Breeds,9.0,11.0,10.0,8.0,14.0,11.0,10.0,12.0,11.0,130.0,129.0,138.0,135.0,133.0
+85,Field Spaniel,Sporting Group,Group 11: Gun Dog Breeds,Gun Dog,None,16.0,18.0,17.0,35.0,50.0,42.5,12.0,13.0,12.5,147.0,145.0,137.0,140.0,142.25
+86,Finnish Spitz,Non-Sporting Group,Group 2: Spitz and Nordic Breeds ,Northern,2-E: Nordic Hunting Dogs,15.0,20.0,17.5,15.0,35.0,25.0,13.0,15.0,14.0,179.0,178.0,174.0,170.0,175.25
+87,Flat Coated Retriever,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,None,22.0,25.0,23.5,60.0,80.0,70.0,8.0,10.0,9.0,,,,,
+88,French Bulldog,Non-Sporting Group,Group 4: Bull Breeds ,Companion Dog,4-A: Bulldogs,11.0,13.0,12.0,16.0,28.0,22.0,10.0,12.0,11.0,6.0,6.0,9.0,11.0,8.0
+89,German Longhaired Pointer,Foundation Stock Service,Not Recognized,Gun Dog,Not Recognized,22.0,28.0,25.0,55.0,80.0,67.5,12.0,14.0,13.0,,,,,
+90,German Pinscher,Working Group,Not Recognized,Terrier,Not Recognized,17.0,20.0,18.5,25.0,45.0,35.0,12.0,14.0,13.0,146.0,138.0,141.0,130.0,138.75
+91,German Shepherd Dog,Herding Group,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,10-B: Large Pastoral Dogs ,21.0,26.0,23.5,48.0,90.0,69.0,12.0,14.0,13.0,2.0,2.0,2.0,2.0,2.0
+92,German Shorthaired Pointer,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,11-A: Pointing Dogs,21.0,26.0,23.5,45.0,70.0,57.5,10.0,12.0,11.0,,,,,
+93,German Wirehaired Pointer,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,11-A: Pointing Dogs ,19.0,26.0,22.5,50.0,70.0,60.0,14.0,16.0,15.0,,,,,
+94,Giant Schnauzer,Working Group,Group 5: Pinschers and Schnauzers ,Guardian Dog,5-A: Large Pinschers and Schnauzers ,23.0,28.0,25.5,55.0,104.0,79.5,12.0,15.0,13.5,79.0,81.0,83.0,83.0,81.5
+95,Glen of Imaal Terrier,Terrier Group,Not Recognized,Terrier,Not Recognized,12.5,14.0,13.25,32.0,40.0,36.0,10.0,15.0,12.5,180.0,168.0,162.0,167.0,169.25
+96,Golden Retriever,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,11-C: Retrievers and Waterdogs ,20.0,24.0,22.0,55.0,75.0,65.0,10.0,12.0,11.0,,,,,
+97,Gordon Setter,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,None,23.0,27.0,25.0,45.0,80.0,62.5,12.0,13.0,12.5,104.0,105.0,100.0,105.0,103.5
+98,Great Dane,Working Group,Group 3: Molossoids and Mastiffs Breeds ,Guardian Dog,None,28.0,34.0,31.0,99.0,200.0,149.5,7.0,10.0,8.5,14.0,15.0,15.0,16.0,15.0
+99,Great Pyrenees,Working Group,Group 9: Large Guardian Pastoral/Mountain Dogs  ,Guardian Dog,9-A Large Mountain/Pastoral Dogs Shepherding Type,25.0,32.0,28.5,85.0,115.0,100.0,10.0,15.0,12.5,67.0,67.0,75.0,69.0,69.5
+100,Greater Swiss Mountain Dog,Working Group,Group 9: Large Guardian Pastoral/Mountain Dogs  ,Guardian Dog,None,23.0,29.0,26.0,85.0,140.0,112.5,8.0,11.0,9.5,78.0,78.0,80.0,74.0,77.5
+101,Greyhound,Hound Group,Group 8: Sighthound Breeds ,Sighthound & Pariah,8-A: Smooth Coated Sighthounds,27.0,30.0,28.5,60.0,70.0,65.0,10.0,13.0,11.5,151.0,147.0,147.0,148.0,148.25
+102,Harrier,Hound Group,Group 7: Scenthounds and Related Breeds ,Scenthound,None,19.0,21.0,20.0,40.0,65.0,52.5,12.0,15.0,13.5,186.0,183.0,181.0,173.0,180.75
+103,Havanese,Toy Group,Group 12: Companion and Toy Breeds,Companion Dog,12-A: Americas and Caribbean Breeds,8.0,12.0,10.0,7.0,14.0,10.5,14.0,16.0,15.0,23.0,24.0,25.0,25.0,24.25
+104,Ibizan Hound,Hound Group,Group 8: Sighthound Breeds ,Sighthound & Pariah,None,22.0,29.0,25.5,40.0,55.0,47.5,11.0,14.0,12.5,152.0,160.0,159.0,151.0,155.5
+105,Irish Setter,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,11-D: Setters,21.0,27.0,24.0,50.0,75.0,62.5,12.0,15.0,13.5,76.0,72.0,73.0,72.0,73.25
+106,Irish Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,None,18.0,19.0,18.5,24.0,28.0,26.0,13.0,15.0,14.0,115.0,113.0,125.0,123.0,119.0
+107,Irish Water Spaniel,Sporting Group,Not Recognized,Gun Dog,Not Recognized,21.0,24.0,22.5,45.0,68.0,56.5,12.0,13.0,12.5,150.0,144.0,152.0,141.0,146.75
+108,Irish Wolfhound,Hound Group,Group 8: Sighthound Breeds ,Sighthound & Pariah,8-C: Rough Haired Sighthounds ,28.0,32.0,30.0,89.0,125.0,107.0,6.0,8.0,7.0,73.0,69.0,72.0,73.0,71.75
+109,Italian Greyhound,Toy Group,Group 8: Sighthound Breeds ,Companion Dog,8-A: Smooth Coated Sighthounds ,12.0,15.0,13.5,7.0,14.0,10.5,14.0,15.0,14.5,72.0,71.0,74.0,66.0,70.75
+110,Jack Russell Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,6-B: Medium Terriers ,9.0,13.0,11.0,9.0,18.0,13.5,12.0,14.0,13.0,,,,,
+111,Japanese Chin,Toy Group,Group 12: Companion and Toy Breeds ,Companion Dog,12-B: Asian Breeds ,8.0,12.0,10.0,4.0,15.0,9.5,10.0,12.0,11.0,108.0,97.0,93.0,87.0,96.25
+112,Kangal,Not Recognized,Group 9: Large Guardian Pastoral/Mountain Dogs ,Guardian Dog,None,28.0,32.0,30.0,90.0,150.0,120.0,12.0,15.0,13.5,,,,,
+113,Keeshond,Non-Sporting Group,Group 2: Spitz and Nordic Breeds,Northern,2-B: European Spitz Breeds,17.0,20.0,18.5,35.0,66.0,50.5,12.0,15.0,13.5,,,,,
+114,Kerry Blue Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,None,17.0,20.0,18.5,33.0,45.0,39.0,12.0,15.0,13.5,127.0,124.0,128.0,126.0,126.25
+115,Komondor,Working Group,Group 10: Pastoral and Stock Dog Breeds ,Guardian Dog,9-A Large Mountain/Pastoral Dogs Shepherding Type ,23.0,30.0,26.5,80.0,135.0,107.5,10.0,12.0,11.0,,,,,
+116,Kuvasz,Working Group,Group 9: Large Guardian Pastoral/Mountain Dogs  ,Guardian Dog,None,26.0,30.0,28.0,70.0,115.0,92.5,10.0,12.0,11.0,,,,,
+117,Labrador Retriever,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,11-C: Retrievers and Waterdogs,21.0,25.0,23.0,55.0,80.0,67.5,10.0,12.0,11.0,1.0,1.0,1.0,1.0,1.0
+118,Lakeland Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,None,13.0,15.0,14.0,15.0,18.0,16.5,12.0,15.0,13.5,145.0,141.0,149.0,134.0,142.25
+119,Lhasa Apso,Non-Sporting Group,Group 12: Companion and Toy Breeds,Companion Dog,12-B: Asian Breeds ,9.0,12.0,10.5,12.0,18.0,15.0,12.0,15.0,13.5,71.0,65.0,67.0,63.0,66.5
+120,Maltese,Toy Group,Group 12: Companion and Toy Breeds,Companion Dog,12-C: European and African Breeds,7.0,10.0,8.5,4.0,9.0,6.5,12.0,15.0,13.5,33.0,31.0,29.0,27.0,30.0
+121,Manchester Terrier (Standard),Terrier Group,Group 6: Terrier Breeds ,Terrier,6-B: Medium Terriers ,14.0,17.0,15.5,12.0,22.0,17.0,15.0,17.0,16.0,,,,,
+122,Manchester Terrier (Toy),Toy Group,Group 6: Terrier Breeds ,Terrier,None,10.0,12.0,11.0,6.0,12.0,9.0,15.0,17.0,16.0,,,,,
+123,Mastiff,Working Group,Group 3: Molossoids and Mastiffs Breeds ,Guardian Dog,None,26.0,30.0,28.0,120.0,230.0,175.0,6.0,10.0,8.0,28.0,25.0,26.0,26.0,26.25
+124,Miniature Bull Terrier,Terrier Group,Group 4: Bull Breeds ,Terrier,4-B: Bull-and-Terrier Breeds,10.0,14.0,12.0,18.0,28.0,23.0,11.0,13.0,12.0,120.0,121.0,129.0,125.0,123.75
+125,Miniature Pinscher,Toy Group,Group 5: Pinschers and Schnauzers ,Companion Dog,5-B: Small Pinschers and Schnauzers,10.0,13.0,11.5,8.0,13.0,10.5,12.0,16.0,14.0,,,,,
+126,Neapolitan Mastiff,Working Group,Group 3: Molossoids and Mastiffs Breeds ,Guardian Dog,None,23.0,31.0,27.0,110.0,154.0,132.0,7.0,9.0,8.0,99.0,106.0,114.0,111.0,107.5
+127,Nederlandse Kooikerhondje,Sporting Group,Not Recognized,Not Recognized,Not Recognized,14.0,17.0,15.5,20.0,30.0,25.0,12.0,15.0,13.5,,,,,
+128,Newfoundland,Working Group,Group 9: Large Guardian Pastoral/Mountain Dogs ,Guardian Dog,9-B: Large Pastoral/Mountain Dogs and Related Breeds ,24.0,30.0,27.0,100.0,152.0,126.0,9.0,10.0,9.5,35.0,37.0,37.0,37.0,36.5
+129,Norfolk Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,6-C: Small Terriers ,8.0,11.0,9.5,10.0,12.0,11.0,12.0,16.0,14.0,134.0,131.0,131.0,129.0,131.25
+130,Norrbottenspets,Miscellaneous Class,Not Recognized,Not Recognized,Not Recognized,16.8,18.0,17.4,20.0,30.0,25.0,14.0,17.0,15.5,,,,,
+131,Norwegian Elkhound,Hound Group,Group 2: Spitz and Nordic Breeds,Northern,2-E: Nordic Hunting Dogs ,19.5,20.5,20.0,48.0,55.0,51.5,12.0,15.0,13.5,94.0,88.0,103.0,103.0,97.0
+132,Nova Scotia Duck Tolling Retriever,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,None,17.0,21.0,19.0,35.0,51.0,43.0,12.0,14.0,13.0,,,,,
+133,Old English Sheepdog,Herding Group,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,10-A: X-Large Pastoral Dogs ,21.0,24.0,22.5,60.0,100.0,80.0,10.0,12.0,11.0,75.0,74.0,77.0,78.0,76.0
+134,Olde English Bulldogge,Not Recognized,Group 4: Bull Breeds ,Guardian Dog ,4-A: Bulldogs ,15.0,20.0,17.5,45.0,85.0,65.0,11.0,14.0,12.5,,,,,
+135,Otterhound,Hound Group,Not Recognized,Scenthound,Not Recognized,24.0,27.0,25.5,80.0,125.0,102.5,10.0,13.0,11.5,166.0,180.0,179.0,172.0,174.25
+136,Papillon,Toy Group,Group 12: Companion and Toy Breeds,Companion Dog,12-C: European and African Breeds ,8.0,11.0,9.5,5.0,11.0,8.0,14.0,16.0,15.0,53.0,48.0,43.0,38.0,45.5
+137,Parson Russell Terrier,Terrier Group,Not Recognized,Terrier,Not Recognized,13.0,14.0,13.5,13.0,17.0,15.0,13.0,15.0,14.0,109.0,111.0,116.0,100.0,109.0
+138,Patterdale Terrier,Not Recognized,Group 6: Terrier Breeds ,Terrier,6-B: Medium Terriers ,10.0,15.0,12.5,10.0,17.0,13.5,11.0,13.0,12.0,,,,,
+139,Pekingese,Toy Group,Group 12: Companion and Toy Breeds,Companion Dog,12-B: Asian Breeds,6.0,12.0,9.0,6.0,14.0,10.0,12.0,14.0,13.0,93.0,80.0,82.0,77.0,83.0
+140,Pembroke Welsh Corgi,Herding Group,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,10-D: Small Pastoral Dogs,10.0,12.0,11.0,20.0,30.0,25.0,12.0,13.0,12.5,18.0,20.0,22.0,24.0,21.0
+141,Perro de Presa Canario,Foundation Stock Service,Group 3: Molossoids and Mastiffs Breeds ,Guardian Dog,None,22.0,26.0,24.0,84.0,143.0,113.5,9.0,11.0,10.0,,,,,
+142,Peruvian Inca Orchid,Miscellaneous Class,"Group 1: Primitive, Pariah, and Feral Breeds ",Sighthound & Pariah,None,9.75,25.75,17.75,8.5,55.0,31.75,12.0,14.0,13.0,,,,,
+143,Petit Basset Griffon Vendeen,Hound Group,Group 7: Scenthounds and Related Breeds ,Scenthound,None,13.0,15.0,14.0,30.0,45.0,37.5,12.0,14.0,13.0,,,,,
+144,Pharaoh Hound,Hound Group,Group 8: Sighthound Breeds ,Sighthound & Pariah,None,21.0,25.0,23.0,45.0,55.0,50.0,12.0,14.0,13.0,168.0,171.0,164.0,160.0,165.75
+145,Plott Hound,Hound Group,Group 7: Scenthounds and Related Breeds ,Scenthound,7-A: Large Scenthounds ,20.0,27.0,23.5,40.0,75.0,57.5,12.0,14.0,13.0,,,,,
+146,Pointer,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,11-A: Pointing Dogs,23.0,28.0,25.5,44.0,75.0,59.5,12.0,17.0,14.5,117.0,114.0,119.0,114.0,116.0
+147,Polish Lowland Sheepdog,Herding Group,Not Recognized,Herding Dog,Not Recognized,17.0,20.0,18.5,30.0,50.0,40.0,12.0,14.0,13.0,169.0,164.0,170.0,157.0,165.0
+148,Pomeranian,Toy Group,Group 2: Spitz and Nordic Breeds,Companion Dog,2-B: European Spitz Breeds ,7.0,12.0,9.5,3.0,7.0,5.0,12.0,16.0,14.0,22.0,21.0,20.0,19.0,20.5
+149,Poodle Toy,Toy Group,Group 12: Companion and Toy Breeds,Companion Dog,12-C: European and African Breeds ,9.0,11.0,10.0,4.0,8.0,6.0,10.0,18.0,14.0,,,,,
+150,"Poodle, Miniature",Non-Sporting Group,Group 12: Companion and Toy Breeds,Companion Dog,12-C: European and African Breeds,10.0,15.0,12.5,10.0,39.0,24.5,10.0,18.0,14.0,,,,,
+151,"Poodle, Standard",Non-Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,None,15.0,25.0,20.0,40.0,70.0,55.0,10.0,18.0,14.0,,,,,
+152,Portuguese Water Dog,Working Group,Group 11: Gun Dog Breeds ,Gun Dog,None,17.0,23.0,20.0,35.0,60.0,47.5,11.0,13.0,12.0,51.0,52.0,52.0,49.0,51.0
+153,Pug,Toy Group,Group 12: Companion and Toy Breeds,Companion Dog,12-B: Asian Breeds ,10.0,14.0,12.0,14.0,18.0,16.0,13.0,15.0,14.0,32.0,33.0,33.0,31.0,32.25
+154,Puli,Herding Group,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,None,14.0,18.0,16.0,22.0,35.0,28.5,10.0,15.0,12.5,,,,,
+155,Pumi,Herding Group,Not Recognized,Herding Dog,Not Recognized,15.0,18.5,16.75,17.0,33.0,25.0,12.0,13.0,12.5,,,,,
+156,Rat Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,None,10.0,18.0,14.0,10.0,35.0,22.5,12.0,18.0,15.0,96.0,101.0,111.0,,102.66666666666667
+157,Redbone Coonhound,Hound Group,Group 7: Scenthounds and Related Breeds ,Scenthound,7-A: Large Scenthounds ,21.0,27.0,24.0,45.0,70.0,57.5,12.0,15.0,13.5,143.0,139.0,148.0,133.0,140.75
+158,Rhodesian Ridgeback,Hound Group,Group 7: Scenthounds and Related Breeds ,Sighthound & Pariah,7-D: Scenthound Related Breeds,24.0,27.0,25.5,65.0,85.0,75.0,9.0,15.0,12.0,42.0,40.0,39.0,39.0,40.0
+159,Rottweiler,Working Group,Group 3: Molossoids and Mastiffs Breeds ,Guardian Dog,None,22.0,27.0,24.5,90.0,135.0,112.5,9.0,10.0,9.5,8.0,9.0,10.0,9.0,9.0
+160,Saint Bernard,Working Group,Group 9: Large Guardian Pastoral/Mountain Dogs ,Guardian Dog,9-B: Large Pastoral/Mountain Dogs and Related Breeds ,25.0,36.0,30.5,120.0,200.0,160.0,8.0,10.0,9.0,,,,,
+161,Saluki,Hound Group,Not Recognized,Sighthound & Pariah,Not Recognized,23.0,28.0,25.5,40.0,65.0,52.5,10.0,17.0,13.5,125.0,132.0,134.0,115.0,126.5
+162,Samoyed,Working Group,Group 2: Spitz and Nordic Breeds,Northern,2-D: Nordic Sled Dogs ,19.0,24.0,21.5,35.0,65.0,50.0,12.0,14.0,13.0,,,,,
+163,Schapendoes,Foundation Stock Service,Not Recognized,Herding Dog,Not Recognized,16.0,20.0,18.0,26.0,55.0,40.5,12.0,15.0,13.5,,,,,
+164,Schipperke,Non-Sporting Group,Group 10: Pastoral and Stock Dog Breeds ,Companion Dog,10-D: Small Pastoral Dogs ,10.0,13.0,11.5,10.0,19.0,14.5,12.0,14.0,13.0,112.0,109.0,109.0,109.0,109.75
+165,"Schnauzer, Standard",Working Group,Group 5: Pinschers and Schnauzers ,Guardian Dog,5-A: Large Pinschers and Schnauzers,17.0,22.0,19.5,28.0,50.0,39.0,13.0,16.0,14.5,,,,,
+166,Scottish Deerhound,Hound Group,Group 8: Sighthound Breeds ,Sighthound & Pariah,None,27.0,32.0,29.5,75.0,110.0,92.5,8.0,11.0,9.5,154.0,152.0,157.0,165.0,157.0
+167,Scottish Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,6-C: Small Terriers ,10.0,11.0,10.5,18.0,23.0,20.5,12.0,14.0,13.0,58.0,58.0,59.0,55.0,57.5
+168,Sealyham Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,None,10.0,12.0,11.0,18.0,25.0,21.5,12.0,14.0,13.0,155.0,158.0,169.0,158.0,160.0
+169,Shetland Sheepdog,Herding Group,Group 10: Pastoral and Stock Dog Breeds ,Herding Dog,10-D: Small Pastoral Dogs,13.0,16.0,14.5,14.0,20.0,17.0,12.0,14.0,13.0,24.0,23.0,21.0,21.0,22.25
+170,Shiba Inu,Non-Sporting Group,Group 2: Spitz and Nordic Breeds,Northern,2-C: Asian Spitz Breeds ,13.0,17.0,15.0,16.0,24.0,20.0,13.0,16.0,14.5,44.0,45.0,47.0,46.0,45.5
+171,Shih Tzu,Toy Group,Group 12: Companion and Toy Breeds,Companion Dog,12-B: Asian Breeds ,8.0,11.0,9.5,9.0,18.0,13.5,10.0,18.0,14.0,20.0,19.0,17.0,15.0,17.75
+172,Siberian Husky,Working Group,Group 2: Spitz and Nordic Breeds ,Northern,2-D: Nordic Sled Dogs ,19.0,24.0,21.5,35.0,60.0,47.5,12.0,14.0,13.0,,,,,
+173,Silky Terrier,Toy Group,Group 6: Terrier Breeds ,Terrier,6-C: Small Terriers ,9.0,10.0,9.5,8.0,10.0,9.0,13.0,15.0,14.0,100.0,102.0,101.0,92.0,98.75
+174,Skye Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,None,7.0,10.0,8.5,18.0,40.0,29.0,12.0,14.0,13.0,178.0,175.0,177.0,161.0,172.75
+175,Smooth Fox Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,None,15.0,16.0,15.5,15.0,18.0,16.5,12.0,15.0,13.5,124.0,122.0,124.0,116.0,121.5
+176,Spinone Italiano,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,None,22.0,28.0,25.0,62.0,86.0,74.0,10.0,12.0,11.0,,,,,
+177,Staffordshire Bull Terrier,Terrier Group,Group 4: Bull Breeds,Terrier,4-B: Bull-and-Terrier Breeds ,14.0,16.0,15.0,24.0,38.0,31.0,12.0,14.0,13.0,82.0,79.0,79.0,79.0,79.75
+178,Sussex Spaniel,Sporting Group,Group 11: Gun Dog Breeds,Gun Dog,None,13.0,16.0,14.5,35.0,51.0,43.0,13.0,15.0,14.0,172.0,173.0,175.0,162.0,170.5
+179,Tibetan Mastiff,Working Group,Group 9: Large Guardian Pastoral/Mountain Dogs ,Guardian Dog,None,24.0,30.0,27.0,70.0,160.0,115.0,10.0,12.0,11.0,135.0,133.0,135.0,132.0,133.75
+180,Tibetan Spaniel,Non-Sporting Group,Group 12: Companion and Toy Breeds ,Companion Dog,12-B: Asian Breeds,9.0,11.0,10.0,9.0,15.0,12.0,12.0,15.0,13.5,118.0,115.0,122.0,106.0,115.25
+181,Tibetan Terrier,Non-Sporting Group,Group 12: Companion and Toy Breeds ,Companion Dog,12-B: Asian Breeds ,14.0,17.0,15.5,18.0,30.0,24.0,15.0,16.0,15.5,91.0,90.0,88.0,88.0,89.25
+182,Toy Fox Terrier,Toy Group,Group 6: Terrier Breeds ,Terrier,6-C: Small Terriers,8.0,12.0,10.0,3.5,8.0,5.75,13.0,15.0,14.0,116.0,110.0,115.0,107.0,112.0
+183,Treeing Tennessee Brindle,Foundation Stock Service,Group 7: Scenthounds and Related Breeds ,Scenthound,None,16.0,24.0,20.0,30.0,50.0,40.0,10.0,12.0,11.0,,,,,
+184,Treeing Walker Coonhound,Hound Group,Group 7: Scenthounds and Related Breeds ,Scenthound,7-A: Large Scenthounds ,20.0,27.0,23.5,50.0,70.0,60.0,12.0,13.0,12.5,137.0,117.0,112.0,101.0,116.75
+185,Vizsla,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,11-A: Pointing Dogs ,21.0,25.0,23.0,44.0,66.0,55.0,12.0,14.0,13.0,31.0,32.0,34.0,34.0,32.75
+186,Weimaraner,Sporting Group,Group 11: Gun Dog Breeds ,Gun Dog,11-A: Pointing Dogs ,22.0,28.0,25.0,55.0,90.0,72.5,10.0,13.0,11.5,34.0,34.0,35.0,33.0,34.0
+187,Welsh Springer Spaniel,Sporting Group,Group 11: Gun Dog Breeds,Gun Dog,None,17.0,19.0,18.0,35.0,55.0,45.0,12.0,15.0,13.5,123.0,128.0,133.0,124.0,127.0
+188,Welsh Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,None,14.0,16.0,15.0,19.0,22.0,20.5,12.0,15.0,13.5,111.0,108.0,106.0,104.0,107.25
+189,West Highland White Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,6-C: Small Terriers ,10.0,12.0,11.0,15.0,22.0,18.5,13.0,15.0,14.0,41.0,41.0,38.0,36.0,39.0
+190,"Wheaten Terrier, Soft-Coated",Terrier Group,Group 6: Terrier Breeds ,Terrier,6-A: Large Terriers ,17.0,20.0,18.5,30.0,40.0,35.0,12.0,14.0,13.0,,,,,
+191,Whippet,Hound Group,Group 8: Sighthound Breeds,Sighthound & Pariah,8-A: Smooth Coated Sighthounds ,17.0,22.0,19.5,25.0,40.0,32.5,12.0,15.0,13.5,,,,,
+192,Wire Fox Terrier,Terrier Group,Group 6: Terrier Breeds ,Terrier,6-B: Medium Terriers ,15.0,16.0,15.5,15.0,18.0,16.5,12.0,15.0,13.5,101.0,94.0,95.0,96.0,96.5
+193,Wirehaired Pointing Griffon,Sporting Group,Not Recognized,Gun Dog,Not Recognized,20.0,24.0,22.0,35.0,70.0,52.5,12.0,15.0,13.5,,,,,
+194,Yorkshire Terrier,Toy Group,Group 6: Terrier Breeds ,Companion Dog,6-C: Small Terriers ,6.0,8.0,7.0,4.0,7.0,5.5,11.0,15.0,13.0,9.0,7.0,6.0,6.0,7.0
+195,Golden Retriever ,,,,,,,,,,,,,,3.0,3.0,3.0,3.0,3.0
+196,Poodle,,,,,,,,,,,,,,7.0,8.0,7.0,8.0,7.5
+197,Pointer (German Shorthaired),,,,,,,,,,,,,,11.0,11.0,12.0,13.0,11.75
+198,Siberian Huskie,,,,,,,,,,,,,,12.0,12.0,13.0,14.0,12.75
+199,Dachshund,,,,,,,,,,,,,,13.0,13.0,11.0,10.0,11.75
+200,Miniature Schnauzer,,,,,,,,,,,,,,17.0,16.0,16.0,17.0,16.5
+201,Cocker Spaniel,,,,,,,,,,,,,,29.0,30.0,30.0,29.0,29.5
+202,Miniature American Shepherd,,,,,,,,,,,,,,36.0,,,,36.0
+203,Bichons Frise,,,,,,,,,,,,,,45.0,44.0,44.0,40.0,43.25
+204,Belgian Malinoi,,,,,,,,,,,,,,47.0,51.0,60.0,60.0,54.5
+205,St. Bernard,,,,,,,,,,,,,,49.0,50.0,51.0,47.0,49.25
+206,Soft Coated Wheaten Terrier,,,,,,,,,,,,,,50.0,47.0,49.0,51.0,49.25
+207,Airedale Terriers,,,,,,,,,,,,,,55.0,53.0,57.0,56.0,55.25
+208,Whippets,,,,,,,,,,,,,,60.0,57.0,56.0,59.0,58.0
+209,Dalmatians,,,,,,,,,,,,,,62.0,62.0,66.0,64.0,63.5
+210,Dogues de Bordeaux,,,,,,,,,,,,,,63.0,63.0,63.0,65.0,63.5
+211,Pointers (German Wirehaired),,,,,,,,,,,,,,64.0,68.0,71.0,71.0,68.5
+212,Samoyeds,,,,,,,,,,,,,,65.0,61.0,68.0,67.0,65.25
+213,Wirehaired Pointing Griffons,,,,,,,,,,,,,,66.0,66.0,76.0,80.0,72.0
+214,Miniature Pinschers,,,,,,,,,,,,,,68.0,64.0,61.0,53.0,61.5
+215,Cardigan Welsh Corgis,,,,,,,,,,,,,,69.0,76.0,78.0,75.0,74.5
+216,Bouviers des Flandre,,,,,,,,,,,,,,83.0,83.0,81.0,82.0,82.25
+217,Standard Schnauzer,,,,,,,,,,,,,,85.0,91.0,90.0,90.0,89.0
+218,Nova Scotia Duck Tolling Retrievers,,,,,,,,,,,,,,87.0,99.0,99.0,97.0,95.5
+219,Flat-Coated Retrievers,,,,,,,,,,,,,,89.0,86.0,92.0,94.0,90.25
+220,Russell Terrier,,,,,,,,,,,,,,90.0,104.0,105.0,102.0,100.25
+221,Keeshonden,,,,,,,,,,,,,,92.0,84.0,87.0,86.0,87.25
+222,Leonberger,,,,,,,,,,,,,,95.0,93.0,104.0,98.0,97.5
+223,English Setters,,,,,,,,,,,,,,102.0,96.0,89.0,91.0,94.5
+224,Norwich Terrier,,,,,,,,,,,,,,103.0,103.0,97.0,89.0,98.0
+225,Spinoni Italiani,,,,,,,,,,,,,,105.0,112.0,118.0,117.0,113.0
+226,American Hairless Terrier,,,,,,,,,,,,,,106.0,,,,106.0
+227,Belgian Tervuren,,,,,,,,,,,,,,107.0,98.0,110.0,108.0,105.75
+228,Lagotti Romagnoli,,,,,,,,,,,,,,114.0,,,,114.0
+229,Black and Tan Coonhound,,,,,,,,,,,,,,128.0,127.0,126.0,113.0,123.5
+230,Belgian Sheepdog,,,,,,,,,,,,,,129.0,120.0,123.0,119.0,122.75
+231,Boerboel,,,,,,,,,,,,,,131.0,126.0,64.0,,107.0
+232,Manchester Terrier,,,,,,,,,,,,,,133.0,137.0,136.0,120.0,131.5
+233,Xoloitzcuintli,,,,,,,,,,,,,,139.0,135.0,142.0,139.0,138.75
+234,Berger Picard,,,,,,,,,,,,,,141.0,,,,141.0
+235,Irish Red and White Setter,,,,,,,,,,,,,,142.0,148.0,155.0,145.0,147.5
+236,Petits Bassets Griffons Vendeen,,,,,,,,,,,,,,148.0,143.0,150.0,138.0,144.75
+237,Icelandic Sheepdog,,,,,,,,,,,,,,153.0,140.0,146.0,142.0,145.25
+238,Wirehaired Vizsla,,,,,,,,,,,,,,157.0,156.0,107.0,,140.0
+239,Plott,,,,,,,,,,,,,,158.0,149.0,154.0,149.0,152.5
+240,Pulik,,,,,,,,,,,,,,159.0,154.0,151.0,136.0,150.0
+241,Portuguese Podengo Pequeno,,,,,,,,,,,,,,160.0,153.0,166.0,153.0,158.0
+242,Entlebucher Mountain Dog,,,,,,,,,,,,,,161.0,159.0,153.0,155.0,157.0
+243,Spanish Water Dog,,,,,,,,,,,,,,162.0,167.0,113.0,,147.33333333333334
+244,Swedish Vallhund,,,,,,,,,,,,,,163.0,155.0,158.0,147.0,155.75
+245,Curly-Coated Retriever,,,,,,,,,,,,,,164.0,151.0,163.0,163.0,160.25
+246,Kuvaszok,,,,,,,,,,,,,,165.0,150.0,161.0,150.0,156.5
+247,American English Coonhound,,,,,,,,,,,,,,170.0,166.0,156.0,146.0,159.5
+248,Lowchen,,,,,,,,,,,,,,171.0,161.0,165.0,154.0,162.75
+249,Finnish Lapphund,,,,,,,,,,,,,,173.0,169.0,173.0,171.0,171.5
+250,Norwegian Buhund,,,,,,,,,,,,,,174.0,165.0,172.0,166.0,169.25
+251,Chinook,,,,,,,,,,,,,,175.0,177.0,171.0,156.0,169.75
+252,Pyrenean Shepherd,,,,,,,,,,,,,,176.0,176.0,178.0,169.0,174.75
+253,Komondorok,,,,,,,,,,,,,,177.0,163.0,168.0,159.0,166.75
+254,Cesky Terrier,,,,,,,,,,,,,,182.0,179.0,182.0,174.0,179.25
+255,Cirnechi dell'Etna,,,,,,,,,,,,,,183.0,162.0,117.0,,154.0
+256,Bergamasco,,,,,,,,,,,,,,184.0,174.0,96.0,,151.33333333333334
+257,Sloughi,,,,,,,,,,,,,,185.0,,,,185.0
+258,Norwegian Lundehund,,,,,,,,,,,,,,188.0,182.0,184.0,175.0,182.25
